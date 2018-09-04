@@ -1,0 +1,11 @@
+D:\Source code\NabtoPoC\NabtoPoC\bin\Debug\netcoreapp1.0\NabtoPoC.deps.json
+D:\Source code\NabtoPoC\NabtoPoC\bin\Debug\netcoreapp1.0\NabtoPoC.runtimeconfig.json
+D:\Source code\NabtoPoC\NabtoPoC\bin\Debug\netcoreapp1.0\NabtoPoC.runtimeconfig.dev.json
+D:\Source code\NabtoPoC\NabtoPoC\bin\Debug\netcoreapp1.0\NabtoPoC.dll
+D:\Source code\NabtoPoC\NabtoPoC\bin\Debug\netcoreapp1.0\NabtoPoC.pdb
+D:\Source code\NabtoPoC\NabtoPoC\obj\Debug\netcoreapp1.0\NabtoPoC.csprojAssemblyReference.cache
+D:\Source code\NabtoPoC\NabtoPoC\obj\Debug\netcoreapp1.0\NabtoPoC.csproj.CoreCompileInputs.cache
+D:\Source code\NabtoPoC\NabtoPoC\obj\Debug\netcoreapp1.0\NabtoPoC.AssemblyInfoInputs.cache
+D:\Source code\NabtoPoC\NabtoPoC\obj\Debug\netcoreapp1.0\NabtoPoC.AssemblyInfo.cs
+D:\Source code\NabtoPoC\NabtoPoC\obj\Debug\netcoreapp1.0\NabtoPoC.dll
+D:\Source code\NabtoPoC\NabtoPoC\obj\Debug\netcoreapp1.0\NabtoPoC.pdb

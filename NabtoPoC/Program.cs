@@ -1,19 +1,29 @@
 ﻿using System;
-using Nabto.Client;
+using System.IO;
+using System.Net.Sockets;
+
 namespace NabtoPoC
 {
+
     class Program
     {
+
+       
         static void Main(string[] args)
         {
-            string profile = Guid.NewGuid().ToString();
-            NabtoClient nabto = new NabtoClient();
-            nabto.CreateSelfSignedProfile(profile, "bar");
-            Session session = nabto.CreateSession(profile, "bar");
-            //TODO
-            Console.WriteLine("Starting Nabto...");
-            nabto.Dispose();
+            try
+            {
+                WaggleSocket waggleSocket = new WaggleSocket();
+                waggleSocket.initSocket();
+               
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+                Console.ReadKey(true);
+            }
 
         }
+               
     }
 }
